@@ -1,6 +1,6 @@
 # 🍕 Pizza Sales Analysis Dashboard & Insights
 
-This project delivers an end-to-end analysis of a fictional pizza restaurant’s sales data. It covers **sales trend analysis**, **customer segmentation**, and **market basket analysis**, offering actionable business insights using Python and essential data science techniques.
+This project delivers an end-to-end analysis of a fictional pizza restaurant’s sales data. It covers **sales trend analysis**, **market basket analysis**, and  **customer segmentation**, offering actionable business insights using Python and essential data science techniques.
 
 ---
 
